@@ -1,0 +1,4 @@
+# First version Schema
+type Query {
+  latestPost: String
+}
